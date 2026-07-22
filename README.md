@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
