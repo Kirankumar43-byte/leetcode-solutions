@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
