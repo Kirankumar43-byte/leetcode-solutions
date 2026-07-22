@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Memoization
 |  |
 | ------- |
