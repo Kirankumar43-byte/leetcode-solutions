@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
