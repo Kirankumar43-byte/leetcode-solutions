@@ -194,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
