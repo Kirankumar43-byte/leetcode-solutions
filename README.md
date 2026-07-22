@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -102,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
