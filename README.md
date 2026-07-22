@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,10 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
