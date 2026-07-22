@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 ## String Matching
 |  |
 | ------- |
