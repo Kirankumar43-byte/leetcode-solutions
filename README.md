@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
