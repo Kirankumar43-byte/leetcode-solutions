@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
