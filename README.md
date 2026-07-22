@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
