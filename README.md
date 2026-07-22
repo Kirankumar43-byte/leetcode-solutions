@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
