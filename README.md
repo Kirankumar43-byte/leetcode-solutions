@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
