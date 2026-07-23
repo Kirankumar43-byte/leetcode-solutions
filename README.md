@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0415-add-strings) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0415-add-strings) |
 ## Backtracking
 |  |
 | ------- |
