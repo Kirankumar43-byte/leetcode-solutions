@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Simulation
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0077-combinations) |
+| [0401-binary-watch](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
 | ------- |
