@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -91,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Array
 |  |
 | ------- |
