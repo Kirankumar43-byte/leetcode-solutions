@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0598-range-addition-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
