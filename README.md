@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
