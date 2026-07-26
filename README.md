@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0598-range-addition-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
