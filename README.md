@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1260-shift-2d-grid) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
