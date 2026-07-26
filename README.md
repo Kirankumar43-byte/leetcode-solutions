@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Geometry
 |  |
 | ------- |
