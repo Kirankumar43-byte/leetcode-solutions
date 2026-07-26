@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
