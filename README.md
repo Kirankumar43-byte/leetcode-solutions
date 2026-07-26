@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0812-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Binary Search
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Memoization
 |  |
 | ------- |
