@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1158-market-analysis-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
+| [1193-monthly-transactions-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1341-movie-rating) |
