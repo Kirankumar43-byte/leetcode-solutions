@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
 ## Enumeration
 |  |
 | ------- |
