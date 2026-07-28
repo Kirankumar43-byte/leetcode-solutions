@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
