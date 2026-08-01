@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0507-perfect-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
