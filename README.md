@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1185-day-of-the-week](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0812-largest-triangle-area) |
 | [0867-transpose-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -462,4 +465,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
