@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0258-add-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
 | ------- |
