@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1399-count-largest-group](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1399-count-largest-group) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1406-stone-game-iii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
