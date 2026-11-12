@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0136-single-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0338-counting-bits) |
