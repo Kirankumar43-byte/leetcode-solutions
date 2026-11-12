@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1406-stone-game-iii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
 | [1510-stone-game-iv](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0258-add-digits) |
+| [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -523,4 +526,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
