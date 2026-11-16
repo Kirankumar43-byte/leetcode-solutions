@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -534,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
