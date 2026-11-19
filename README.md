@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1406-stone-game-iii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
