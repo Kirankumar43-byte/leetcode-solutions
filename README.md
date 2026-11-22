@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1447-simplified-fractions](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1447-simplified-fractions) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
