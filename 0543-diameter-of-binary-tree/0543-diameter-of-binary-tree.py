@@ -7,6 +7,6 @@ class Solution:
             left = height(node.left)
             right = height(node.right)
             self.max_diameter = max(self.max_diameter, left + right)
-            return max(left, right) + 1
+            return 1+ max(left, right) 
         height(root)
         return self.max_diameter
