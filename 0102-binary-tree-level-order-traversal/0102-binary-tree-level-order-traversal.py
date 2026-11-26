@@ -1,15 +1,12 @@
 class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+    def levelOrder(self, root):
         ans = []
-        def bfs(curr = root, level = 0):
-            nonlocal ans
+        def dfs(curr, level):
             if curr:
-                if len(ans) > level:
-                    ans[level].append(curr.val)
-                else:
-                    ans.append([curr.val])
-                bfs(curr.left, level + 1)
-                bfs(curr.right, level + 1)
-            return
-        bfs()
+                if len(ans) <= level:
+                    ans.append([])
+                ans[level].append(curr.val)
+                dfs(curr.left, level + 1)
+                dfs(curr.right, level + 1)
+        dfs(root, 0)
         return ans
