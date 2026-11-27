@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
