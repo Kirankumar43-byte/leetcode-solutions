@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Trie
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Kirankumar43-byte/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Game Theory
 |  |
 | ------- |
